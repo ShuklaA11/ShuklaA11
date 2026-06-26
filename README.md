@@ -24,10 +24,6 @@ Multi-source ingestion + LLM summarization, with a **two-tower neural recommende
 Two-stage CV pipeline — YOLO + ByteTrack detection feeding a ResNet18 classifier — that finds Waymo vehicles in street video and exports clips. Tuned for **precision over recall**.
 `Computer Vision` · `PyTorch` · `YOLO` · `OpenCV`
 
-### ✉️ [Relay](https://github.com/ShuklaA11/Relay) — *Personalized outreach pipeline*
-Turns a CSV of leads into reviewed, personalized email drafts: Apollo enrichment, per-segment generation with Claude, and Gmail drafts that never auto-send. Works from CLI or Google Sheets.
-`Python` · `LLM` · `Automation`
-
 ---
 
 ## Toolbox
