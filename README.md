@@ -21,7 +21,7 @@ Multi-source ingestion + LLM summarization, with a **two-tower neural recommende
 `PyTorch` · `FastAPI` · `Recommender systems` · `LLM`
 
 ### 🚗 [WaymoVision](https://github.com/ShuklaA11/WaymoVision) — *Self-driving car detection pipeline*
-Two-stage CV pipeline — YOLO + ByteTrack detection feeding a ResNet18 classifier — that finds Waymo vehicles in street video and exports clips. Tuned for **precision over recall**.
+Two-stage CV pipeline — YOLO + ByteTrack detection feeding a ResNet18 classifier — that finds Waymo vehicles in street video and exports clips. Tuned for **precision over recall**. *Research at INSPIRE Lab, UT Austin.*
 `Computer Vision` · `PyTorch` · `YOLO` · `OpenCV`
 
 ---
