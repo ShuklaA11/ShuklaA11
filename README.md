@@ -16,6 +16,10 @@ Section-aware retrieval, citation-graph expansion, multi-hop reasoning, and NLI-
 A chat-first workspace with a persona-aware assistant: native Anthropic tool-use loop, a versioned wiki, grounded retrieval, scheduled agents, and an anti-hallucination guardrail on LLM extraction.
 `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tool-use`
 
+### 🛰️ [Atlas](https://github.com/ShuklaA11/Atlas) — *SMS-based personal AI agent*
+A Claude-powered assistant that runs your day over text: morning briefings, smart reminders, deep-work focus sessions, location-triggered fitness logging, and conversational nightly reviews — a tool-use agent on a cron + webhook backbone.
+`Next.js` · `TypeScript` · `Supabase` · `Twilio` · `Claude Agent SDK`
+
 ### 📰 [AISignal](https://github.com/ShuklaA11/AISignal) — *Personalized AI news aggregator*
 Multi-source ingestion + LLM summarization, with a **two-tower neural recommender** trained via contrastive learning and Thompson-sampling exploration to avoid filter bubbles.
 `PyTorch` · `FastAPI` · `Recommender systems` · `LLM`
